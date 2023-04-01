@@ -87,7 +87,7 @@ function generateMarkdown(response) {
   ---
 
   ## Contributors
-  ### ${response.contributing}
+  ### ${response.contributors}
   ---
 
   ## Tests
