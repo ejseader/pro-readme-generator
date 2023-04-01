@@ -61,7 +61,9 @@ function generateMarkdown(response) {
   # ${response.title}
   ---
 
-  ## ${renderLicenseSection(response.license)} ${renderLicenseBadge(response.license)} ${renderLicenseLink(response.license)}
+  ## ${renderLicenseSection(response.license)} ${renderLicenseBadge(response.license)} 
+  ### ${renderLicenseLink(response.license)}
+  ---
 
   ## Description
   ### ${response.description}
@@ -74,6 +76,7 @@ function generateMarkdown(response) {
   ### - [Contributors](#contributors)
   ### - [Tests](#tests)
   ### - [Questions](#questions)
+  ---
     
   ## Installation
   ### ${response.instructions}
