@@ -3,7 +3,7 @@
   ---
 
   ## License: MIT  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg) 
-  ### (https://opensource.org/licenses/MIT) (CTRL + Click to open in new tab - GitHub does not allow target="_blank")
+  ### (https://opensource.org/licenses/MIT)* 
   ---
 
   ## Description
@@ -29,10 +29,10 @@
   ---
 
   ## Walkthrough
-  ### <a href="https://drive.google.com/file/d/1QrbyB1Zyt9PCgqNtG76S8nPr7fFX31mx/view" target="_blank">Walkthrough of Professional README Generator App</a> (CTRL + Click to open in new tab - GitHub does not allow target="_blank")
+  ### <a href="https://drive.google.com/file/d/1QrbyB1Zyt9PCgqNtG76S8nPr7fFX31mx/view" target="_blank">Walkthrough of Professional README Generator App</a>*
 
   ## Contributors
-  ### <a href="https://www.youtube.com/watch?v=gRlkEJuGlgI" target="_blank">This video</a> helped me greatly. (CTRL + Click to open in new tab - GitHub does not allow target="_blank")
+  ### <a href="https://www.youtube.com/watch?v=gRlkEJuGlgI" target="_blank">This video</a> helped me greatly.*
   ---
 
   ## Tests
@@ -42,5 +42,7 @@
   ## Questions
 
   ### For any questions, please contact me at:
-  ### GitHub: <a href="https://github.com/ejseader" target="_blank">https://github.com/ejseader</a> (CTRL + Click to open in new tab - GitHub does not allow target="_blank")
+  ### GitHub: <a href="https://github.com/ejseader" target="_blank">https://github.com/ejseader</a>*
   ### Email: ejseader@gmail.com
+
+  *CTRL + Click to open in new tab - GitHub does not allow target="_blank"
