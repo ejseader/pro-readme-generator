@@ -1,9 +1,9 @@
-// TODO: Create a function that returns a license badge based on which license is passed in
+// Included packages
 const inquirer = require('inquirer');
 const fs = require('fs');
 const index = require('../index.js');
 
-// If there is no license, return an empty string
+// License Badge
 function renderLicenseBadge(license) {
   let badge = '';
   if (license === 'Apache') {
@@ -22,7 +22,7 @@ function renderLicenseBadge(license) {
   return badge;
 }
 
-// TODO: Create a function that returns a license link based on which license is passed in
+// License Link
 function renderLicenseLink(license) {
   let licenseLink = '';
   if (license === 'Apache') {
@@ -41,8 +41,7 @@ function renderLicenseLink(license) {
   return licenseLink;
 }
 
-// TODO: Create a function that returns the license section of README
-// If there is no license, return an empty string
+// Write license name, badge, and link to README file
 function renderLicenseSection(license) {
   let licenseSection = ''
   if (license === 'None') {
@@ -55,7 +54,7 @@ function renderLicenseSection(license) {
 }
 
 
-// TODO: Create a function to generate markdown for README
+// Generate Markdown for README
 function generateMarkdown(response) {
   return `
   # ${response.title}
