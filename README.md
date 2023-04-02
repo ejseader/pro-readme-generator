@@ -14,6 +14,7 @@
   
   ### - [Installation](#installation)
   ### - [Usage](#usage)
+  ### - [Walkthrough Video](#walkthrough)
   ### - [Contributors](#contributors)
   ### - [Tests](#tests)
   ### - [Questions](#questions)
@@ -27,11 +28,11 @@
   ### Simply open a terminal, type 'node index.js', and answer the questionnaire. Upon completion, a README file will be output in Markdown language reflecting your input.
   ---
 
-  ## Walkthrough Video
-  ### [Walkthrough of Professional README Generator App](https://drive.google.com/file/d/1QrbyB1Zyt9PCgqNtG76S8nPr7fFX31mx/view)
+  ## Walkthrough
+  ### <a href="https://drive.google.com/file/d/1QrbyB1Zyt9PCgqNtG76S8nPr7fFX31mx/view" target="_blank">Walkthrough of Professional README Generator App</a>
 
   ## Contributors
-  ### This video helped me greatly [https://www.youtube.com/watch?v=gRlkEJuGlgI](https://www.youtube.com/watch?v=gRlkEJuGlgI)
+  ### <a href="https://www.youtube.com/watch?v=gRlkEJuGlgI" target="_blank">This video</a> helped me greatly.
   ---
 
   ## Tests
@@ -41,5 +42,5 @@
   ## Questions
 
   ### For any questions, please contact me at:
-  ### GitHub: [https://github.com/ejseader](https://github.com/ejseader)
+  ### GitHub: <a href="https://github.com/ejseader" target="_blank">https://github.com/ejseader</a>
   ### Email: ejseader@gmail.com
