@@ -27,6 +27,9 @@
   ### Simply open a terminal, type 'node index.js', and answer the questionnaire. Upon completion, a README file will be output in Markdown language reflecting your input.
   ---
 
+  ## Walkthrough Video
+  ### [Walkthrough of Professional README Generator App](https://drive.google.com/file/d/1QrbyB1Zyt9PCgqNtG76S8nPr7fFX31mx/view)
+
   ## Contributors
   ### This video helped me greatly [https://www.youtube.com/watch?v=gRlkEJuGlgI](https://www.youtube.com/watch?v=gRlkEJuGlgI)
   ---
